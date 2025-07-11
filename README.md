@@ -32,7 +32,7 @@ TC 006 - Verify that searching for a non-existent product displays no products
 ## How to run
 1. Get a clone from below git repository 
 
-<-----git repo link---------->
+git@github.com:Lakshani1998/eBay_Automation.git
 
 2. Install playwright using below command
         npm init playwright@latest
